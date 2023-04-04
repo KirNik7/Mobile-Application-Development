@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Калькулятор стоимости автомобиля</string>
+    <string name="options_select_text">Выберите опции:</string>
+    <string name="option_1">Климат-контроль</string>
+    <string name="option_2">Мультимедийная установка</string>
+    <string name="option_3">Чехлы на сиденья</string>
+    <string name="option_4">Тонировка задних стекл</string>
+    <string name="option_5">Набор инструментов</string>
+    <string name="car_text">Выберите автомобиль:</string>
+    <string name="calculatePriceButton">Рассчитать стоимость</string>
+    <string-array name="cars_select">
+        <item>Lada Granta</item>
+        <item>Daewoo Nexia</item>
+        <item>Chevrolet Lacetti</item>
+        <item>Daewoo Matiz</item>
+        <item>Kia Rio</item>
+    </string-array>
+</resources>
