@@ -8,6 +8,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MobileApplicationDevelopmentPractice">
         <activity
+            android:name=".RAMActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GPUActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CPUActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

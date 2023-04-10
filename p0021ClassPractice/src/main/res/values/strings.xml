@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LAB2</string>
+    <string name="button_CPU">Список ЦП</string>
+    <string name="button_GPU">Список ГП</string>
+    <string name="button_RAM">Список ОЗУ</string>
+    <string name="button_onMainActivity">На главную</string>
 </resources>
