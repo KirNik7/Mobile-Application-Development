@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/sky"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/sky"
+        android:src="@drawable/sky" />
+    <ImageView
+        android:id="@+id/sun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/sun"
+        android:scaleType="fitCenter"
+        android:src="@drawable/sun" />
+    <ImageView
+        android:id="@+id/road"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:contentDescription="@string/road"
+        android:src="@drawable/road" />
+
+    <ImageView
+        android:id="@+id/line_1"
+        android:layout_width="60dp"
+        android:layout_height="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        android:contentDescription="@string/lines"
+        android:src="@drawable/lines" />
+
+    <ImageView
+        android:id="@+id/line_2"
+        android:layout_width="60dp"
+        android:layout_height="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        android:layout_marginStart="150dp"
+        android:contentDescription="@string/lines"
+        android:src="@drawable/lines" />
+
+    <ImageView
+        android:id="@+id/line_3"
+        android:layout_width="60dp"
+        android:layout_height="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        android:layout_marginStart="300dp"
+        android:contentDescription="@string/lines"
+        android:src="@drawable/lines" />
+
+    <ImageView
+        android:id="@+id/line_4"
+        android:layout_width="60dp"
+        android:layout_height="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        android:layout_marginStart="450dp"
+        android:contentDescription="@string/lines"
+        android:src="@drawable/lines" />
+
+    <ImageView
+        android:id="@+id/car"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/car"
+        android:contentDescription="@string/car"
+        android:layout_alignParentBottom="true" />
+
+
+</RelativeLayout>

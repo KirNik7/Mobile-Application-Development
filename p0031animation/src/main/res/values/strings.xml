@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p0031Animation</string>
+    <string name="sun">Солнце</string>
+    <string name="road">Дорога</string>
+    <string name="sky">Небо</string>
+    <string name="lines">Разметка</string>
+    <string name="car">Автомобиль</string>
+</resources>
