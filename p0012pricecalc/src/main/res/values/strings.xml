@@ -8,6 +8,8 @@
     <string name="option_5">Набор инструментов</string>
     <string name="car_text">Выберите автомобиль:</string>
     <string name="calculatePriceButton">Рассчитать стоимость</string>
+    <string name="save">Сохранить</string>
+    <string name="load">Загрузить</string>
     <string-array name="cars_select">
         <item>Lada Granta</item>
         <item>Daewoo Nexia</item>

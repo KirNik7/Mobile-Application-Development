@@ -75,5 +75,4 @@
         android:contentDescription="@string/car"
         android:layout_alignParentBottom="true" />
 
-
 </RelativeLayout>
